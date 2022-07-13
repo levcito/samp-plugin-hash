@@ -1,0 +1,5 @@
+{
+    "user": "levcito",
+    "repo": "samp-plugin-hash",
+    "dependencies": ["levcito/samp-plugin-hash"]
+}
